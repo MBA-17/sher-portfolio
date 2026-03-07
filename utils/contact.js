@@ -8,8 +8,8 @@ const contact = {
         label: 'Say Hello',
         onClick: () => openLink('mailto:afzalimdad9@gmail.com?subject=Hello')
     },
-    designAndBuiltBy: 'Designed & Built By Afzal Imdad',
-    handleBuiltByClick: () => openLink('https://github.com/afzalimdad9')
+    designAndBuiltBy: 'Designed & Built By Sheraz Akram',
+    handleBuiltByClick: () => openLink('https://github.com/MBA-17')
 }
 
 export default contact
