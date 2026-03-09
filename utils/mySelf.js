@@ -34,7 +34,7 @@ const mySelf = {
         'Shopify',
         'WordPress',
     ],
-    image: '/assets/profile.jpg',
+    image: '/assets/AI_Sher.webp',
 }
 
 export default mySelf

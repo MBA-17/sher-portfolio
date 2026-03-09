@@ -17,7 +17,7 @@ const header = {
         onClick: () => openLink('assets/cv.pdf')
     },
     logo: {
-        src: '/assets/profile.jpg',
+        src: '/assets/AI_Sher.webp',
         alt: 'sherazakram'
     },
     handleIconClick: () => scrollTo('home'),
