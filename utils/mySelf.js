@@ -24,15 +24,19 @@ const mySelf = {
         'JavaScript',
         'Liquid',
         'Json',
-        'Accessibility(WCAG)'
+        'Accessibility(WCAG)',
+        'Shopify',
+        'WordPress'
     ],
     techList2: [
         'Meta Ads',
+        'SEO',
         'AI Automation',
         'GitHub',
+        'Git',
         'Shopify CLI',
-        'Shopify',
-        'WordPress',
+        'VS Code',
+        'Google Antigravity'
     ],
     image: '/assets/AI_Sher.webp',
 }

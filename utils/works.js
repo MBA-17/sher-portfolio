@@ -43,6 +43,22 @@ const works = {
             ]
         },
         {
+            company: 'Kelhel',
+            jobs: [
+                {
+                    role: 'Founder & E-commerce Entrepreneur',
+                    duration: 'Onsite | Mar 2024 - Present',
+                    points: [
+                        `Founded and independently operate a global Shopify dropshipping business, managing every function end-to-end — from store build to post-purchase customer experience.`,
+                        "Conducted ongoing product research and supplier sourcing, identifying high-demand, margin-positive products and negotiating reliable fulfillment pipelines for worldwide shipping.",
+                        'Designed and launched the Shopify storefront from scratch, applying conversion-focused UX principles and brand consistency to maximize visitor-to-buyer rate.',
+                        `Planned and managed paid advertising campaigns across Meta, Google, and TikTok — handling creative, targeting, budget allocation, and performance optimization independently.`,
+                        "Handled all order fulfillment and customer support, maintaining supplier relationships and resolving international customer queries to ensure a high-quality post-purchase experience."
+                    ],
+                },
+            ]
+        },
+        {
             company: 'Rankviz',
             jobs: [
                 {

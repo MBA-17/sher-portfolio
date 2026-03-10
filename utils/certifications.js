@@ -5,29 +5,29 @@ const certifications = {
     list: [
         {
             size: 1,
-            title: 'DevOps on AWS Specialization',
-            platform: 'Coursera',
+            title: 'Search Engine Optimization',
+            platform: 'PFTF',
             link: '',
-            date: 'Issued Sep 2022 · No Expiration Date',
-            logo: '/assets/aws.png',
+            date: 'Issued Mar 2023 · No Expiration Date',
+            logo: '/assets/pftf-lms-logo.png',
             aos: 'zoom-out-left'
         },
         {
             size: 1,
-            title: 'Docker for absolute beginners',
-            platform: 'Coursera',
+            title: 'E-commerce Specialization',
+            platform: 'E-Hunar',
             link: '',
-            date: 'Issued Sep 2022 · No Expiration Date',
-            logo: '/assets/docker.png',
+            date: 'Issued Oct 2023 · No Expiration Date',
+            logo: '/assets/ehunar-logo.webp',
             aos: 'zoom-out-right'
         },
         {
             size: 1,
-            title: 'AWS Cloud Technical Essentials',
-            platform: 'Coursera',
+            title: 'Meta Advertising',
+            platform: 'Meta Blueprint',
             link: '',
-            date: 'Issued Aug 2022 · No Expiration Date',
-            logo: '/assets/aws.png',
+            date: 'Issued Aug 2024 · No Expiration Date',
+            logo: '/assets/meta certification.webp',
             aos: 'zoom-out-left'
         },
         {

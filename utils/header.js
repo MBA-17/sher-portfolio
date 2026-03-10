@@ -14,7 +14,7 @@ const header = {
     ],
     rightBtn: {
         label: 'Curriculum Vitae | CV',
-        onClick: () => openLink('assets/cv.pdf')
+        onClick: () => openLink('assets/Sheraz-Akram-Resume.pdf')
     },
     logo: {
         src: '/assets/AI_Sher.webp',
