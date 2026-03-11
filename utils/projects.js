@@ -54,13 +54,16 @@ const projects = {
             ]
         },
         {
-            image: '/assets/projects/cuerobyhac.com_.png',
+            image: '/assets/projects/tibbghar.com_.png',
             label: 'Featured Project',
-            title: `Chainracers`,
-            description: `ChainRacers is a play-to-earn NFT Race Battle Game. The GammaVerse, our growing MetaVerse featuring characters, worlds, arenas, and more, will kick things off with 8,888 unique generative NFT sets. Each set will include a NFT Racer and NFT Rider.`,
+            title: `Tibb Ghar`,
+            description: `A Pakistani natural herbal health & wellness brand offering supplements, face creams, soaps, and hair oils. Customized the Shopify theme to client requirements, ensuring a clean, trust-driven storefront suited to a health-focused audience.`,
             techs: [
-                'React Js',
-                'Web3 Js',
+                'Shopify',
+                'Premium Theme',
+                'Private Label',
+                'Store Setup',
+                'Product Configuration',
             ]
         }
     ]
